@@ -1,0 +1,1 @@
+python train_wm.py -s /userhome/3DGS_watermark/dataset/bicycle --eval -m output/bicycle --iterations 50000 -r 4
