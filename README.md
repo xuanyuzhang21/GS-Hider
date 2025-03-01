@@ -9,10 +9,10 @@
 
 # Install with our feature rasterizer
 
-'''
+```
 pip install submodule/diff-gaussian-rasterization
 pip install submodule/simple-knn
-'''
+```
 
 # Train
 
